@@ -1,0 +1,6 @@
+{
+  "name": "Nigah Clothes Store",
+  "description": "Nigah Clothes Store — Premium Pakistani haute couture, winter collections, luxury pret, and modern silhouettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
